@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MOHAMED and BOSSY//Wedding Invitation//AR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bousy-mohamed-20261116@wedding.local
+DTSTAMP:20261110T180000Z
+DTSTART:20261116T163000Z
+SUMMARY:فرح MOHAMED & BOSSY
+LOCATION:La Pansia Hall - جاردنيا - دار الحرب الكيمي
+ ائية
+DESCRIPTION:فرحتنا تكمل بوجودكم. الساعة ٦:٣٠ م
+ ساءً بتوقيت القاهرة.
+URL:https://maps.app.goo.gl/QE26RmPK63TA2Dyk7
+BEGIN:VALARM
+TRIGGER:-PT3H
+ACTION:DISPLAY
+DESCRIPTION:ميعاد فرح MOHAMED & BOSSY النهارده الساع
+ ة ٦:٣٠ مساءً
+END:VALARM
+END:VEVENT
+END:VCALENDAR
